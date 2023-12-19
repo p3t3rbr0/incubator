@@ -1,3 +1,6 @@
 [submodule "py3-slingshot-game"]
 	path = py3-slingshot-game
 	url = git@github.com:p3t3rbr0/py3-slingshot-game.git
+[submodule "s2-naive-bayes-classifier"]
+	path = s2-naive-bayes-classifier
+	url = git@github.com:p3t3rbr0/s2-naive-bayes-classifier.git

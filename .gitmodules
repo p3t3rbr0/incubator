@@ -1,0 +1,3 @@
+[submodule "py3-slingshot-game"]
+	path = py3-slingshot-game
+	url = git@github.com:p3t3rbr0/py3-slingshot-game.git
